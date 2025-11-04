@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: f11f100929f9e61478d6627519811b8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6546618372397862076
+    second: character_enemy_urchin_death_0
+  - first:
+      213: 1696349981553435162
+    second: character_enemy_urchin_death_1
+  - first:
+      213: -130440106907271401
+    second: character_enemy_urchin_death_2
+  - first:
+      213: -4606563000731774311
+    second: character_enemy_urchin_death_3
+  - first:
+      213: -6568586984645346938
+    second: character_enemy_urchin_death_4
+  - first:
+      213: 1267535823834645722
+    second: character_enemy_urchin_death_5
+  - first:
+      213: -5291562888766569986
+    second: character_enemy_urchin_death_6
+  - first:
+      213: -8068905901288295386
+    second: character_enemy_urchin_death_7
+  - first:
+      213: 19068631490510651
+    second: character_enemy_urchin_death_8
+  - first:
+      213: 684313604157665120
+    second: character_enemy_urchin_death_9
+  - first:
+      213: 8926087545534972991
+    second: character_enemy_urchin_death_10
+  - first:
+      213: -6724170726821268000
+    second: character_enemy_urchin_death_11
+  - first:
+      213: 6542805572215487383
+    second: character_enemy_urchin_death_12
+  - first:
+      213: 4114174577820878858
+    second: character_enemy_urchin_death_13
+  - first:
+      213: 4796914815219738525
+    second: character_enemy_urchin_death_14
+  - first:
+      213: -4983784291160446296
+    second: character_enemy_urchin_death_15
+  - first:
+      213: -2261710323707367520
+    second: character_enemy_urchin_death_16
+  - first:
+      213: -1467482075978629644
+    second: character_enemy_urchin_death_17
+  - first:
+      213: -3260298137894945047
+    second: character_enemy_urchin_death_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443fd29964db525a0800000000000000
+      internalID: -6546618372397862076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12ab311255aa8710800000000000000
+      internalID: 1696349981553435162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ff353f965903ef0800000000000000
+      internalID: -130440106907271401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 6
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992dce18b533210c0800000000000000
+      internalID: -4606563000731774311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689b5f770f0b7d4a0800000000000000
+      internalID: -6568586984645346938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 16
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad40fb7bd11379110800000000000000
+      internalID: 1267535823834645722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1cd6ca6979096b0800000000000000
+      internalID: -5291562888766569986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62478ab65dc750090800000000000000
+      internalID: -8068905901288295386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 13
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f385eb1deb34000800000000000000
+      internalID: 19068631490510651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 5
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fe8cae89b2f7900800000000000000
+      internalID: 684313604157665120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3486a98455dfdb70800000000000000
+      internalID: 8926087545534972991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5fcb2a952fea2a0800000000000000
+      internalID: -6724170726821268000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bb95ea007bcca50800000000000000
+      internalID: 6542805572215487383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08c4fe0bfb781930800000000000000
+      internalID: 4114174577820878858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d972bfafb90129240800000000000000
+      internalID: 4796914815219738525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaa538a79a06dab0800000000000000
+      internalID: -4983784291160446296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_16
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afa692917acc90e0800000000000000
+      internalID: -2261710323707367520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd7a03b3d472abe0800000000000000
+      internalID: -1467482075978629644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_death_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 153
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee77ec0e1811c2d0800000000000000
+      internalID: -3260298137894945047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_enemy_urchin_death_0: -6546618372397862076
+      character_enemy_urchin_death_1: 1696349981553435162
+      character_enemy_urchin_death_10: 8926087545534972991
+      character_enemy_urchin_death_11: -6724170726821268000
+      character_enemy_urchin_death_12: 6542805572215487383
+      character_enemy_urchin_death_13: 4114174577820878858
+      character_enemy_urchin_death_14: 4796914815219738525
+      character_enemy_urchin_death_15: -4983784291160446296
+      character_enemy_urchin_death_16: -2261710323707367520
+      character_enemy_urchin_death_17: -1467482075978629644
+      character_enemy_urchin_death_18: -3260298137894945047
+      character_enemy_urchin_death_2: -130440106907271401
+      character_enemy_urchin_death_3: -4606563000731774311
+      character_enemy_urchin_death_4: -6568586984645346938
+      character_enemy_urchin_death_5: 1267535823834645722
+      character_enemy_urchin_death_6: -5291562888766569986
+      character_enemy_urchin_death_7: -8068905901288295386
+      character_enemy_urchin_death_8: 19068631490510651
+      character_enemy_urchin_death_9: 684313604157665120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

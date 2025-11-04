@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Floor
+  - Coin
+  - Spikes
+  - Barrel
+  - Bomb
+  - KillZone
+  - StarFish
+  - Urchin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Floor
+  - Water
+  - UI
+  - Player
+  - Suelo
+  - Jugador
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Jugador
+    uniqueID: 2767937087
+    locked: 0
+  m_RenderingLayers:
+  - Default

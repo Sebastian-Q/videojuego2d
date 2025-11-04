@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 2d678952c44ce524d97a2941cf6fbbe8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4391922312362647756
+    second: character_boss_ground_exhausted_0
+  - first:
+      213: 3736793842842303232
+    second: character_boss_ground_exhausted_1
+  - first:
+      213: 2035277962070514381
+    second: character_boss_ground_exhausted_2
+  - first:
+      213: -459094533798773697
+    second: character_boss_ground_exhausted_3
+  - first:
+      213: 3686491434712015033
+    second: character_boss_ground_exhausted_4
+  - first:
+      213: 3777120624568981717
+    second: character_boss_ground_exhausted_5
+  - first:
+      213: 1518013020766912484
+    second: character_boss_ground_exhausted_6
+  - first:
+      213: -2135884861519836198
+    second: character_boss_ground_exhausted_7
+  - first:
+      213: -8264718748032833244
+    second: character_boss_ground_exhausted_8
+  - first:
+      213: -1861180247316405979
+    second: character_boss_ground_exhausted_9
+  - first:
+      213: 2098731020529485649
+    second: character_boss_ground_exhausted_10
+  - first:
+      213: -1080733952071689053
+    second: character_boss_ground_exhausted_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 255
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0ec7dd21e33fc30800000000000000
+      internalID: 4391922312362647756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 255
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b7b71a332cbd330800000000000000
+      internalID: 3736793842842303232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 255
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcad46ce582ce3c10800000000000000
+      internalID: 2035277962070514381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 127
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cb99234f7f0a9f0800000000000000
+      internalID: -459094533798773697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 127
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0a7819d6c092330800000000000000
+      internalID: 3686491434712015033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 169
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d85c3d22370b6430800000000000000
+      internalID: 3777120624568981717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 127
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efba33bcc0111510800000000000000
+      internalID: 1518013020766912484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 170
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbc9fbe800db52e0800000000000000
+      internalID: -2135884861519836198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429edf64612dd4d80800000000000000
+      internalID: -8264718748032833244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5216bbf0d62cb26e0800000000000000
+      internalID: -1861180247316405979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157c0cd5eb0302d10800000000000000
+      internalID: 2098731020529485649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_exhausted_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac101252367001f0800000000000000
+      internalID: -1080733952071689053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_boss_ground_exhausted_0: 4391922312362647756
+      character_boss_ground_exhausted_1: 3736793842842303232
+      character_boss_ground_exhausted_10: 2098731020529485649
+      character_boss_ground_exhausted_11: -1080733952071689053
+      character_boss_ground_exhausted_2: 2035277962070514381
+      character_boss_ground_exhausted_3: -459094533798773697
+      character_boss_ground_exhausted_4: 3686491434712015033
+      character_boss_ground_exhausted_5: 3777120624568981717
+      character_boss_ground_exhausted_6: 1518013020766912484
+      character_boss_ground_exhausted_7: -2135884861519836198
+      character_boss_ground_exhausted_8: -8264718748032833244
+      character_boss_ground_exhausted_9: -1861180247316405979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
