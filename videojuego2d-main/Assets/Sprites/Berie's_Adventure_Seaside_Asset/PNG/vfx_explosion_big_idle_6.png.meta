@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: a2e76135c42e1884fb0190d1bbe4b3d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9134937706728552283
+    second: vfx_explosion_big_idle_6_0
+  - first:
+      213: -7723578261356916109
+    second: vfx_explosion_big_idle_6_1
+  - first:
+      213: 6090650128046697776
+    second: vfx_explosion_big_idle_6_2
+  - first:
+      213: 3874067983408275429
+    second: vfx_explosion_big_idle_6_3
+  - first:
+      213: -743904482202536999
+    second: vfx_explosion_big_idle_6_4
+  - first:
+      213: -4250693846496283514
+    second: vfx_explosion_big_idle_6_5
+  - first:
+      213: 4590725770169604585
+    second: vfx_explosion_big_idle_6_6
+  - first:
+      213: 2829960706017163627
+    second: vfx_explosion_big_idle_6_7
+  - first:
+      213: -1697451490715528790
+    second: vfx_explosion_big_idle_6_8
+  - first:
+      213: -6032828593219322705
+    second: vfx_explosion_big_idle_6_9
+  - first:
+      213: 8096734680710647643
+    second: vfx_explosion_big_idle_6_10
+  - first:
+      213: -3921402627929904263
+    second: vfx_explosion_big_idle_6_11
+  - first:
+      213: -4657464560362907380
+    second: vfx_explosion_big_idle_6_12
+  - first:
+      213: 2737787958833619787
+    second: vfx_explosion_big_idle_6_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a88f110e8e2a3180800000000000000
+      internalID: -9134937706728552283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 98
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37254e81e7650d490800000000000000
+      internalID: -7723578261356916109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 95
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d29659506568450800000000000000
+      internalID: 6090650128046697776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 102
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef93c22e4473c530800000000000000
+      internalID: 3874067983408275429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 87
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d33f7790de1da5f0800000000000000
+      internalID: -743904482202536999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 89
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68476aeb7708205c0800000000000000
+      internalID: -4250693846496283514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9d038e3c885bf30800000000000000
+      internalID: 4590725770169604585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 31
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b697772b44a064720800000000000000
+      internalID: 2829960706017163627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 77
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa19178dcd07178e0800000000000000
+      internalID: -1697451490715528790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facb7569b56174ca0800000000000000
+      internalID: -6032828593219322705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f08543b416d5070800000000000000
+      internalID: 8096734680710647643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 52
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b64fc16116499c0800000000000000
+      internalID: -3921402627929904263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09199d98ac5d5fb0800000000000000
+      internalID: -4657464560362907380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_idle_6_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 30
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43ae94a4a39ef520800000000000000
+      internalID: 2737787958833619787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx_explosion_big_idle_6_0: -9134937706728552283
+      vfx_explosion_big_idle_6_1: -7723578261356916109
+      vfx_explosion_big_idle_6_10: 8096734680710647643
+      vfx_explosion_big_idle_6_11: -3921402627929904263
+      vfx_explosion_big_idle_6_12: -4657464560362907380
+      vfx_explosion_big_idle_6_13: 2737787958833619787
+      vfx_explosion_big_idle_6_2: 6090650128046697776
+      vfx_explosion_big_idle_6_3: 3874067983408275429
+      vfx_explosion_big_idle_6_4: -743904482202536999
+      vfx_explosion_big_idle_6_5: -4250693846496283514
+      vfx_explosion_big_idle_6_6: 4590725770169604585
+      vfx_explosion_big_idle_6_7: 2829960706017163627
+      vfx_explosion_big_idle_6_8: -1697451490715528790
+      vfx_explosion_big_idle_6_9: -6032828593219322705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

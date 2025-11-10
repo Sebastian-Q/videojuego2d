@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 21db373e93f7d09488d0d982f7ee260b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6386863824275996971
+    second: character_boss_ground_stomp_finish_0
+  - first:
+      213: 5125604473763564349
+    second: character_boss_ground_stomp_finish_1
+  - first:
+      213: -8406732869510899522
+    second: character_boss_ground_stomp_finish_2
+  - first:
+      213: 6589110259257018183
+    second: character_boss_ground_stomp_finish_3
+  - first:
+      213: 4328801907852281873
+    second: character_boss_ground_stomp_finish_4
+  - first:
+      213: -3708176999460603241
+    second: character_boss_ground_stomp_finish_5
+  - first:
+      213: 200197599670901352
+    second: character_boss_ground_stomp_finish_6
+  - first:
+      213: 821784667810820737
+    second: character_boss_ground_stomp_finish_7
+  - first:
+      213: -8763460029391604084
+    second: character_boss_ground_stomp_finish_8
+  - first:
+      213: 8003250064019088516
+    second: character_boss_ground_stomp_finish_9
+  - first:
+      213: -7238227063312511285
+    second: character_boss_ground_stomp_finish_10
+  - first:
+      213: 4916940504940955085
+    second: character_boss_ground_stomp_finish_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 255
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de7c3dd03d4d57a0800000000000000
+      internalID: -6386863824275996971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 255
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b84ddbc1ec12740800000000000000
+      internalID: 5125604473763564349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 255
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8d337fef8455b80800000000000000
+      internalID: -8406732869510899522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 255
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74785e4ced8317b50800000000000000
+      internalID: 6589110259257018183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 140
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1188194766ef21c30800000000000000
+      internalID: 4328801907852281873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 143
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a70ee6aa8e98cc0800000000000000
+      internalID: -3708176999460603241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 138
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a154df7ae37c200800000000000000
+      internalID: 200197599670901352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 128
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182f9b62dc0976b00800000000000000
+      internalID: 821784667810820737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8677c8b88fe16680800000000000000
+      internalID: -8763460029391604084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484ea7ab781411f60800000000000000
+      internalID: 8003250064019088516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce83afe5d6ac8b90800000000000000
+      internalID: -7238227063312511285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_boss_ground_stomp_finish_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc54cb2965b7c3440800000000000000
+      internalID: 4916940504940955085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_boss_ground_stomp_finish_0: -6386863824275996971
+      character_boss_ground_stomp_finish_1: 5125604473763564349
+      character_boss_ground_stomp_finish_10: -7238227063312511285
+      character_boss_ground_stomp_finish_11: 4916940504940955085
+      character_boss_ground_stomp_finish_2: -8406732869510899522
+      character_boss_ground_stomp_finish_3: 6589110259257018183
+      character_boss_ground_stomp_finish_4: 4328801907852281873
+      character_boss_ground_stomp_finish_5: -3708176999460603241
+      character_boss_ground_stomp_finish_6: 200197599670901352
+      character_boss_ground_stomp_finish_7: 821784667810820737
+      character_boss_ground_stomp_finish_8: -8763460029391604084
+      character_boss_ground_stomp_finish_9: 8003250064019088516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -19,9 +19,9 @@ TagManager:
   - Floor
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Player
+  - Suelo
+  - Jugador
   - 
   - 
   - 
@@ -48,6 +48,9 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Jugador
+    uniqueID: 2767937087
     locked: 0
   m_RenderingLayers:
   - Default
