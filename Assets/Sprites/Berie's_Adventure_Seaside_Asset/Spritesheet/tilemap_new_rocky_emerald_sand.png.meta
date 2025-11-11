@@ -38,10 +38,14 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     filterMode: 1
 =======
     filterMode: 0
 >>>>>>> master
+=======
+    filterMode: 0
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -122,6 +126,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
         y: 0
         width: 352
         height: 160
@@ -134,6 +139,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -147,7 +159,10 @@ TextureImporter:
       edges: []
       weights: []
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
     - serializedVersion: 2
       name: tilemap_new_rocky_emerald_sand_1
       rect:
@@ -1160,16 +1175,23 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
     outline: []
     customData: 
     physicsShape: []
     bones: []
 <<<<<<< HEAD
+<<<<<<< HEAD
     spriteID: 
 =======
     spriteID: 935c698310dd80a4eb1f53c5a66270cb
 >>>>>>> master
+=======
+    spriteID: 935c698310dd80a4eb1f53c5a66270cb
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
     internalID: 0
     vertices: []
     indices: 
@@ -1177,6 +1199,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
+<<<<<<< HEAD
 <<<<<<< HEAD
       entries: []
     nameFileIdTable:
@@ -1187,6 +1210,13 @@ TextureImporter:
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       tilemap_new_rocky_emerald_sand_0: 746707261255173138
+=======
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tilemap_new_rocky_emerald_sand_0: 746707261255173138
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       tilemap_new_rocky_emerald_sand_1: 885658692
       tilemap_new_rocky_emerald_sand_10: -1615416679
       tilemap_new_rocky_emerald_sand_11: -894274961
@@ -1233,7 +1263,10 @@ TextureImporter:
       tilemap_new_rocky_emerald_sand_7: 603294489
       tilemap_new_rocky_emerald_sand_8: -1303202447
       tilemap_new_rocky_emerald_sand_9: -730294440
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

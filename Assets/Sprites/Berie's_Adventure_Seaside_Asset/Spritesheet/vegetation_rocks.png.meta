@@ -147,6 +147,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
         x: 14
         y: 31
         width: 70
@@ -161,6 +162,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        x: 0
+        y: 30
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,6 +187,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
         x: 103
         y: 31
         width: 53
@@ -192,6 +202,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -209,6 +227,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
         x: 162
         y: 63
         width: 60
@@ -223,6 +242,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -240,6 +267,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
         x: 162
         y: 31
         width: 26
@@ -254,6 +282,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -271,6 +307,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
         x: 195
         y: 31
         width: 27
@@ -285,6 +322,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -302,6 +347,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
         x: 1
         y: 0
         width: 27
@@ -316,6 +362,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -333,6 +387,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
         x: 35
         y: 0
         width: 27
@@ -347,6 +402,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -364,6 +427,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
         x: 68
         y: 0
         width: 26
@@ -378,6 +442,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -395,6 +467,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
         x: 99
         y: 0
         width: 27
@@ -409,6 +482,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -426,6 +507,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
         x: 164
         y: 0
         width: 26
@@ -440,6 +522,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -457,6 +547,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
         x: 195
         y: 0
         width: 27
@@ -471,6 +562,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
 >>>>>>> master
+=======
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -484,7 +583,10 @@ TextureImporter:
       edges: []
       weights: []
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
     - serializedVersion: 2
       name: vegetation_rocks_11
       rect:
@@ -683,16 +785,23 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
     outline: []
     customData: 
     physicsShape: []
     bones: []
 <<<<<<< HEAD
+<<<<<<< HEAD
     spriteID: 
 =======
     spriteID: 576a5a7b72df6db4e9a5fd370741e399
 >>>>>>> master
+=======
+    spriteID: 576a5a7b72df6db4e9a5fd370741e399
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
     internalID: 0
     vertices: []
     indices: 
@@ -701,18 +810,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
 <<<<<<< HEAD
+<<<<<<< HEAD
       entries: []
 =======
       entries:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
 >>>>>>> master
+=======
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
     nameFileIdTable:
       vegetation_rocks_0: 1259368674020116703
       vegetation_rocks_1: -4483557412249125217
       vegetation_rocks_10: 2587584020782811628
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       vegetation_rocks_11: -775077979
       vegetation_rocks_12: 62834880
       vegetation_rocks_13: -2038021368
@@ -722,7 +840,10 @@ TextureImporter:
       vegetation_rocks_17: 1724425340
       vegetation_rocks_18: -2113735696
       vegetation_rocks_19: 1350625840
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> b7e0f20e4c42ea0d576cf0a88a7e0ac817c264a2
       vegetation_rocks_2: 8863028345766411063
       vegetation_rocks_3: 8166144375725078745
       vegetation_rocks_4: 8955742325172428141
