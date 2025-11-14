@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 2b4bd839ab9e1fb4dab800dc1ec8ed1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5636038585975595293
+    second: character_enemy_urchin_stand_in_0
+  - first:
+      213: -4371828132068284233
+    second: character_enemy_urchin_stand_in_1
+  - first:
+      213: 8911806894590000742
+    second: character_enemy_urchin_stand_in_2
+  - first:
+      213: 921488236475587969
+    second: character_enemy_urchin_stand_in_3
+  - first:
+      213: -2880055342844840202
+    second: character_enemy_urchin_stand_in_4
+  - first:
+      213: 8708790833138273304
+    second: character_enemy_urchin_stand_in_5
+  - first:
+      213: -2297556967243983057
+    second: character_enemy_urchin_stand_in_6
+  - first:
+      213: -4293035131306446720
+    second: character_enemy_urchin_stand_in_7
+  - first:
+      213: 2081741097844722683
+    second: character_enemy_urchin_stand_in_8
+  - first:
+      213: -3478662996015403595
+    second: character_enemy_urchin_stand_in_9
+  - first:
+      213: 8458058060998301603
+    second: character_enemy_urchin_stand_in_10
+  - first:
+      213: 6236822944515632863
+    second: character_enemy_urchin_stand_in_11
+  - first:
+      213: 3561715508408253604
+    second: character_enemy_urchin_stand_in_12
+  - first:
+      213: 8093648294855579475
+    second: character_enemy_urchin_stand_in_13
+  - first:
+      213: 6559381339739709202
+    second: character_enemy_urchin_stand_in_14
+  - first:
+      213: 8726264036072919104
+    second: character_enemy_urchin_stand_in_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee978e54c4c8c1b0800000000000000
+      internalID: -5636038585975595293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8a2011a752453c0800000000000000
+      internalID: -4371828132068284233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ef9e267291dab70800000000000000
+      internalID: 8911806894590000742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d14d73ba8c9cc00800000000000000
+      internalID: 921488236475587969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f67444ccecf708d0800000000000000
+      internalID: -2880055342844840202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c82602f17dbd870800000000000000
+      internalID: 8708790833138273304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27d23c7c107d10e0800000000000000
+      internalID: -2297556967243983057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 14
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080f4362b431c64c0800000000000000
+      internalID: -4293035131306446720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbcd5bbf74d3ec10800000000000000
+      internalID: 2081741097844722683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 10
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bda4359f6e49bfc0800000000000000
+      internalID: -3478662996015403595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7de676efe016570800000000000000
+      internalID: 8458058060998301603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde2cd68c65ad8650800000000000000
+      internalID: 6236822944515632863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac7ca55261cd6130800000000000000
+      internalID: 3561715508408253604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35710dffd3a625070800000000000000
+      internalID: 8093648294855579475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_14
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 0
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fd28d439a970b50800000000000000
+      internalID: 6559381339739709202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_enemy_urchin_stand_in_15
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040946638eae91970800000000000000
+      internalID: 8726264036072919104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_enemy_urchin_stand_in_0: -5636038585975595293
+      character_enemy_urchin_stand_in_1: -4371828132068284233
+      character_enemy_urchin_stand_in_10: 8458058060998301603
+      character_enemy_urchin_stand_in_11: 6236822944515632863
+      character_enemy_urchin_stand_in_12: 3561715508408253604
+      character_enemy_urchin_stand_in_13: 8093648294855579475
+      character_enemy_urchin_stand_in_14: 6559381339739709202
+      character_enemy_urchin_stand_in_15: 8726264036072919104
+      character_enemy_urchin_stand_in_2: 8911806894590000742
+      character_enemy_urchin_stand_in_3: 921488236475587969
+      character_enemy_urchin_stand_in_4: -2880055342844840202
+      character_enemy_urchin_stand_in_5: 8708790833138273304
+      character_enemy_urchin_stand_in_6: -2297556967243983057
+      character_enemy_urchin_stand_in_7: -4293035131306446720
+      character_enemy_urchin_stand_in_8: 2081741097844722683
+      character_enemy_urchin_stand_in_9: -3478662996015403595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

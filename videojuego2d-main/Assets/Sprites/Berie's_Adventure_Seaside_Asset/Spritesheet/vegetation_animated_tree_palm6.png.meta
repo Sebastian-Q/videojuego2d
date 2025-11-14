@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 6fb2b3e29eab7624fb3642728c077b67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4313704029480772365
+    second: vegetation_animated_tree_palm6_0
+  - first:
+      213: 1477785744328034377
+    second: vegetation_animated_tree_palm6_1
+  - first:
+      213: -167976956499382542
+    second: vegetation_animated_tree_palm6_2
+  - first:
+      213: -6016333964037630239
+    second: vegetation_animated_tree_palm6_3
+  - first:
+      213: 765178675920204291
+    second: vegetation_animated_tree_palm6_4
+  - first:
+      213: -7954991900998912668
+    second: vegetation_animated_tree_palm6_5
+  - first:
+      213: -8277819997066466814
+    second: vegetation_animated_tree_palm6_6
+  - first:
+      213: 8221446290441387653
+    second: vegetation_animated_tree_palm6_7
+  - first:
+      213: 4470075679184578205
+    second: vegetation_animated_tree_palm6_8
+  - first:
+      213: 578272742043286080
+    second: vegetation_animated_tree_palm6_9
+  - first:
+      213: 8628007394398114113
+    second: vegetation_animated_tree_palm6_10
+  - first:
+      213: -412592921050044824
+    second: vegetation_animated_tree_palm6_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 287
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d036f57b5fa5ddb30800000000000000
+      internalID: 4313704029480772365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 287
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9480fc80e46228410800000000000000
+      internalID: 1477785744328034377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 287
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe276919d93badf0800000000000000
+      internalID: -167976956499382542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 287
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e65b67b220b18ca0800000000000000
+      internalID: -6016333964037630239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3027def93f57e9a00800000000000000
+      internalID: 765178675920204291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 191
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465b9dd63013a9190800000000000000
+      internalID: -7954991900998912668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 191
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a6a3802964f1d80800000000000000
+      internalID: -8277819997066466814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 191
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e36b197d1781270800000000000000
+      internalID: 8221446290441387653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 95
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96e8e09526e80e30800000000000000
+      internalID: 4470075679184578205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 95
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04af7ccbeff660800800000000000000
+      internalID: 578272742043286080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 95
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1411b861307dcb770800000000000000
+      internalID: 8628007394398114113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_animated_tree_palm6_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 95
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866a8ff9cec264af0800000000000000
+      internalID: -412592921050044824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vegetation_animated_tree_palm6_0: 4313704029480772365
+      vegetation_animated_tree_palm6_1: 1477785744328034377
+      vegetation_animated_tree_palm6_10: 8628007394398114113
+      vegetation_animated_tree_palm6_11: -412592921050044824
+      vegetation_animated_tree_palm6_2: -167976956499382542
+      vegetation_animated_tree_palm6_3: -6016333964037630239
+      vegetation_animated_tree_palm6_4: 765178675920204291
+      vegetation_animated_tree_palm6_5: -7954991900998912668
+      vegetation_animated_tree_palm6_6: -8277819997066466814
+      vegetation_animated_tree_palm6_7: 8221446290441387653
+      vegetation_animated_tree_palm6_8: 4470075679184578205
+      vegetation_animated_tree_palm6_9: 578272742043286080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

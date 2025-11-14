@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 2867d699c1fc969429615b7e0da070a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2826028670210616620
+    second: vfx_explosion_big_fade_4_0
+  - first:
+      213: 1794043442014993352
+    second: vfx_explosion_big_fade_4_1
+  - first:
+      213: -2074860188792453998
+    second: vfx_explosion_big_fade_4_2
+  - first:
+      213: -3966925133915003995
+    second: vfx_explosion_big_fade_4_3
+  - first:
+      213: 2698493301776679783
+    second: vfx_explosion_big_fade_4_4
+  - first:
+      213: 712796293120386666
+    second: vfx_explosion_big_fade_4_5
+  - first:
+      213: -926813211664282652
+    second: vfx_explosion_big_fade_4_6
+  - first:
+      213: 6799305679482189407
+    second: vfx_explosion_big_fade_4_7
+  - first:
+      213: 4740481366781383802
+    second: vfx_explosion_big_fade_4_8
+  - first:
+      213: 1275875973855523360
+    second: vfx_explosion_big_fade_4_9
+  - first:
+      213: -254903752002878234
+    second: vfx_explosion_big_fade_4_10
+  - first:
+      213: 3605998951280406204
+    second: vfx_explosion_big_fade_4_11
+  - first:
+      213: -8013987954743962089
+    second: vfx_explosion_big_fade_4_12
+  - first:
+      213: -426287595657903604
+    second: vfx_explosion_big_fade_4_13
+  - first:
+      213: -337702439731275257
+    second: vfx_explosion_big_fade_4_14
+  - first:
+      213: -4052061926638790426
+    second: vfx_explosion_big_fade_4_15
+  - first:
+      213: -555189394389090863
+    second: vfx_explosion_big_fade_4_16
+  - first:
+      213: -295718434462833377
+    second: vfx_explosion_big_fade_4_17
+  - first:
+      213: 324537134290005911
+    second: vfx_explosion_big_fade_4_18
+  - first:
+      213: 6833504273155819443
+    second: vfx_explosion_big_fade_4_19
+  - first:
+      213: -5967364354173149968
+    second: vfx_explosion_big_fade_4_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d29f44a12183720800000000000000
+      internalID: 2826028670210616620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb3ce85109b5e810800000000000000
+      internalID: 1794043442014993352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2940d60c6ad9433e0800000000000000
+      internalID: -2074860188792453998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a36d6ebb96a2f8c0800000000000000
+      internalID: -3966925133915003995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 88
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7638b295c59f27520800000000000000
+      internalID: 2698493301776679783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 85
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66e7a8b37c54e900800000000000000
+      internalID: 712796293120386666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb8c916b4c4323f0800000000000000
+      internalID: -926813211664282652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 72
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56f4d0cd7cfb5e50800000000000000
+      internalID: 6799305679482189407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74dc5bdfa299c140800000000000000
+      internalID: 4740481366781383802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 79
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0223d173072d4b110800000000000000
+      internalID: 1275875973855523360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 58
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e444f95366667cf0800000000000000
+      internalID: -254903752002878234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 61
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeef77d0f41b0230800000000000000
+      internalID: 3605998951280406204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 67
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7161a334a6898c090800000000000000
+      internalID: -8013987954743962089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 61
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02c7a8b0b5851af0800000000000000
+      internalID: -426287595657903604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ad8089b6d305bf0800000000000000
+      internalID: -337702439731275257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 42
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e85fce752f24c7c0800000000000000
+      internalID: -4052061926638790426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddbf54ff229b48f0800000000000000
+      internalID: -555189394389090863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 34
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15ee4096a565ebf0800000000000000
+      internalID: -295718434462833377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 45
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f67cdddccf08400800000000000000
+      internalID: 324537134290005911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 40
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b701945eeb75de50800000000000000
+      internalID: 6833504273155819443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx_explosion_big_fade_4_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 31
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc5e208cb9af2da0800000000000000
+      internalID: -5967364354173149968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx_explosion_big_fade_4_0: 2826028670210616620
+      vfx_explosion_big_fade_4_1: 1794043442014993352
+      vfx_explosion_big_fade_4_10: -254903752002878234
+      vfx_explosion_big_fade_4_11: 3605998951280406204
+      vfx_explosion_big_fade_4_12: -8013987954743962089
+      vfx_explosion_big_fade_4_13: -426287595657903604
+      vfx_explosion_big_fade_4_14: -337702439731275257
+      vfx_explosion_big_fade_4_15: -4052061926638790426
+      vfx_explosion_big_fade_4_16: -555189394389090863
+      vfx_explosion_big_fade_4_17: -295718434462833377
+      vfx_explosion_big_fade_4_18: 324537134290005911
+      vfx_explosion_big_fade_4_19: 6833504273155819443
+      vfx_explosion_big_fade_4_2: -2074860188792453998
+      vfx_explosion_big_fade_4_20: -5967364354173149968
+      vfx_explosion_big_fade_4_3: -3966925133915003995
+      vfx_explosion_big_fade_4_4: 2698493301776679783
+      vfx_explosion_big_fade_4_5: 712796293120386666
+      vfx_explosion_big_fade_4_6: -926813211664282652
+      vfx_explosion_big_fade_4_7: 6799305679482189407
+      vfx_explosion_big_fade_4_8: 4740481366781383802
+      vfx_explosion_big_fade_4_9: 1275875973855523360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

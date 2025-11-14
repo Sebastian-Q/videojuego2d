@@ -19,10 +19,10 @@ TagManager:
   - Deafult
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Suelo
+  - Jugador
+  - Floor
   - 
   - 
   - 
@@ -51,6 +51,9 @@ TagManager:
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Jugador
+    uniqueID: 2767937087
     locked: 0
   - name: New Layer 2
     uniqueID: 533163143
