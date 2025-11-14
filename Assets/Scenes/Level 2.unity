@@ -333,9 +333,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8626801203129753663, guid: bb52932de8e3c7447b8320a02563a5dd, type: 3}
       insertIndex: -1
       addedObject: {fileID: 825529332}
-    - targetCorrespondingSourceObject: {fileID: 8626801203129753663, guid: bb52932de8e3c7447b8320a02563a5dd, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1082532145}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bb52932de8e3c7447b8320a02563a5dd, type: 3}
 --- !u!1001 &382638360
@@ -985,11 +982,11 @@ Transform:
   m_GameObject: {fileID: 1082532144}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 590.23944, y: 408.77533, z: 0}
+  m_LocalPosition: {x: 1550.2395, y: 948.7753, z: 0}
   m_LocalScale: {x: 2.8959274, y: 2.8959274, z: 2.8959274}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 685501533}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1082532146
 MonoBehaviour:
@@ -1005,7 +1002,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LifeManager
   maxLives: 3
   livesText: {fileID: 0}
-  currentLives: 0
 --- !u!1 &1108315460
 GameObject:
   m_ObjectHideFlags: 0
@@ -2461,4 +2457,5 @@ SceneRoots:
   - {fileID: 382638360}
   - {fileID: 1118152717}
   - {fileID: 618977941}
+  - {fileID: 1082532145}
   - {fileID: 360629279}
