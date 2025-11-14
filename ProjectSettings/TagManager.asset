@@ -16,13 +16,13 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Floor
+  - Deafult
   - Water
   - UI
   - Player
   - Suelo
   - Jugador
-  - 
+  - Floor
   - 
   - 
   - 
@@ -46,11 +46,17 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Capa1
+    uniqueID: 3126950279
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: Jugador
     uniqueID: 2767937087
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 533163143
     locked: 0
   m_RenderingLayers:
   - Default
