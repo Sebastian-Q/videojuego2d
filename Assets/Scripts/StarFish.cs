@@ -12,6 +12,8 @@ public class Starfish : MonoBehaviour
     private Rigidbody2D rb;
     private bool isMoving = false; 
     private float initialGravityScale;
+    
+    public bool playerInRange = false; // Valor que determina si entro en el rango del enemigo 
 
     void Start()
     {
@@ -24,7 +26,7 @@ public class Starfish : MonoBehaviour
         rb.gravityScale = 0f;
 
         // Inicia la animación Start
-        GetComponent<Animator>()?.Play("Start");
+        //GetComponent<Animator>()?.Play("Start");
     }
 
     void FixedUpdate()
@@ -41,6 +43,8 @@ public class Starfish : MonoBehaviour
     /// </summary>
     public void ActivateMovement()
     {
+        if (!playerInRange) return; 
+        
         isMoving = true;
 
         // Activa la gravedad (el valor que tenga en el Inspector, ej. 1)
@@ -50,7 +54,7 @@ public class Starfish : MonoBehaviour
         Destroy(gameObject, lifeTime);
 
         // Cambiamos la animación a Roll
-        GetComponent<Animator>()?.Play("Roll");
+        //GetComponent<Animator>()?.Play("Roll");
     }
 
     // LÓGICA DE COLISIÓN SÓLIDA: Activada por el Collider de COLISIÓN (Is Trigger = false)
