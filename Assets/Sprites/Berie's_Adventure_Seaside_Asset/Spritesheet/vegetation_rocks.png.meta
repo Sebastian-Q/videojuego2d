@@ -146,12 +146,12 @@ TextureImporter:
       name: vegetation_rocks_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 31
-        width: 70
-        height: 56
+        x: 0
+        y: 0
+        width: 0
+        height: 0
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -168,218 +168,20 @@ TextureImporter:
       name: vegetation_rocks_1
       rect:
         serializedVersion: 2
-        x: 103
-        y: 31
-        width: 53
-        height: 62
+        x: 15
+        y: 32
+        width: 68
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f9e32d8d94437c1c0800000000000000
-      internalID: -4483557412249125217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetation_rocks_2
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 63
-        width: 60
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73bff97725dcffa70800000000000000
-      internalID: 8863028345766411063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetation_rocks_3
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 31
-        width: 26
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d8b5ab2b09f35170800000000000000
-      internalID: 8166144375725078745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetation_rocks_4
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 31
-        width: 27
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6d55d7f130394c70800000000000000
-      internalID: 8955742325172428141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetation_rocks_5
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 0
-        width: 27
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c75a27718dbc7a5f0800000000000000
-      internalID: -745403084339763844
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetation_rocks_6
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 0
-        width: 27
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 04aec9c5ced5d7ce0800000000000000
-      internalID: -1405864238922274240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetation_rocks_7
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 0
-        width: 26
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6032c09d1b50d87a0800000000000000
-      internalID: -6373431636250582266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetation_rocks_8
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 0
-        width: 27
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18de372e2c518fd20800000000000000
-      internalID: 3312421452698086785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetation_rocks_9
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 0
-        width: 26
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0cbdce9a6f62058b0800000000000000
-      internalID: -5165585931739276352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vegetation_rocks_10
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 0
-        width: 27
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce98c3115f1f8e320800000000000000
-      internalID: 2587584020782811628
+      spriteID: 8ebaedd86f2328246ad10b5b8ff5d5c4
+      internalID: 1902347384
       vertices: []
       indices: 
       edges: []
@@ -388,7 +190,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9e85f072c61d31b428e4c38328172f83
     internalID: 0
     vertices: []
     indices: 
@@ -399,16 +201,7 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       vegetation_rocks_0: 1259368674020116703
-      vegetation_rocks_1: -4483557412249125217
-      vegetation_rocks_10: 2587584020782811628
-      vegetation_rocks_2: 8863028345766411063
-      vegetation_rocks_3: 8166144375725078745
-      vegetation_rocks_4: 8955742325172428141
-      vegetation_rocks_5: -745403084339763844
-      vegetation_rocks_6: -1405864238922274240
-      vegetation_rocks_7: -6373431636250582266
-      vegetation_rocks_8: 3312421452698086785
-      vegetation_rocks_9: -5165585931739276352
+      vegetation_rocks_1: 1902347384
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

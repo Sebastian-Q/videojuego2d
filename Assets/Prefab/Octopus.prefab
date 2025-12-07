@@ -129,7 +129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Octopus
   bulletPrefab: {fileID: 7405743618934962073, guid: 0bb3742656081064ca837eb7e7eba889, type: 3}
   firePoint: {fileID: 7838413268968143917}
-  timeBetweenAttacks: 3
+  timeBetweenAttacks: 1
 --- !u!1 &2368850938637608594
 GameObject:
   m_ObjectHideFlags: 0
