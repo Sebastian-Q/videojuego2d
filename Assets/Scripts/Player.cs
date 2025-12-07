@@ -27,6 +27,16 @@ public class Player : MonoBehaviour
     {
         rb2D = GetComponent<Rigidbody2D>(); // Poder acceder al componente dentro de Unity
         animator = GetComponent<Animator>(); // Acceder al componente Animator
+        
+        /// Pasar al nivel secreto
+        if (PlayerPrefs.GetInt("VengoDelNivelSecreto") == 1)
+        {
+            PlayerPrefs.SetInt("VengoDelNivelSecreto", 0); 
+            
+            transform.position = new Vector3(24.0f, -0.5f, 0); 
+        }
+        
+        
         GameObject managerObj = GameObject.Find("Lifemanager"); // o el nombre real del objeto
         if (managerObj != null)
         {
