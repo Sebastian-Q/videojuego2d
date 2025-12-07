@@ -210,4 +210,30 @@ public class Player : MonoBehaviour
             }
         }
     }
+ public void DestroyBarrel(GameObject barrel)
+{
+    // Si el barril tiene el script nuevo (DestructibleBarrel), usa su sistema de vida
+    DestructibleBarrel destructible = barrel.GetComponent<DestructibleBarrel>();
+    if (destructible != null)
+    {
+        destructible.TakeDamage(1);
+        return;
+    }
+
+    // Si NO tiene el script, destrúyelo normalmente
+    Destroy(barrel);
+}
+
+public GameObject attackHitbox;
+
+public void EnableHitbox()
+{
+    attackHitbox.SetActive(true);
+}
+
+public void DisableHitbox()
+{
+    attackHitbox.SetActive(false);
+}
+
 }
