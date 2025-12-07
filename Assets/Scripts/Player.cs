@@ -171,8 +171,6 @@ public class Player : MonoBehaviour
     {
         if (life != null) {
             life.TakeDamage(); // ← primero restamos la vida
-        } else {
-            Debug.LogError("life es null en DieAndRestart");
         }
 
         SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Reiniciar la escena.
