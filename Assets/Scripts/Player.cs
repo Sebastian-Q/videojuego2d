@@ -6,35 +6,43 @@ using TMPro;
 public class Player : MonoBehaviour
 {
 
-    public float speed = 5f;
+    public float speed = 5f; // Velocidad del jugador
     private Rigidbody2D rb2D; // Fisicas en Unity
 
-    // ... (otras variables y métodos sin cambios)
-    private float move;
-    public float jumpForce = 4f;
-    private bool isGrounded;
-    public Transform groundCheck;
+    private float move; // Variable para mover al jugador
+    public float jumpForce = 4f; // Fuerza del salto
+    private bool isGrounded; // Valor que determina si esta en el suelo
+
+    public Transform groundCheck; 
     public float groundRadius = 0.1f;
     public LayerMask groundLayer;
     private Animator animator;
     private int coins;
     public TMP_Text textCoins;
     private bool isAttacking = false; 
+    
     public LifeManager life;
 
     void Start()
     {
         rb2D = GetComponent<Rigidbody2D>(); // Poder acceder al componente dentro de Unity
         animator = GetComponent<Animator>(); // Acceder al componente Animator
+        
+        /// Pasar al nivel secreto
+        if (PlayerPrefs.GetInt("VengoDelNivelSecreto") == 1)
+        {
+            PlayerPrefs.SetInt("VengoDelNivelSecreto", 0); 
+            
+            transform.position = new Vector3(24.0f, -0.5f, 0); 
+        }
+        
+        
         GameObject managerObj = GameObject.Find("Lifemanager"); // o el nombre real del objeto
         if (managerObj != null)
         {
             life = managerObj.GetComponent<LifeManager>();
         }
-        else
-        {
-            Debug.LogError("No se encontró el GameObject con LifeManager");
-        }//Contador de vida
+        //Contador de vida
     }
 
     void Update()
@@ -163,8 +171,6 @@ public class Player : MonoBehaviour
     {
         if (life != null) {
             life.TakeDamage(); // ← primero restamos la vida
-        } else {
-            Debug.LogError("life es null en DieAndRestart");
         }
 
         SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Reiniciar la escena.

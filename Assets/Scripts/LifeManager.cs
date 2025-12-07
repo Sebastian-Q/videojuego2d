@@ -60,9 +60,5 @@ public class LifeManager : MonoBehaviour
         {
             livesText.text = "Vidas: " + currentLives;
         }
-        else
-        {
-            Debug.LogWarning("No se asignó el texto de vidas");
-        }
     }
 }

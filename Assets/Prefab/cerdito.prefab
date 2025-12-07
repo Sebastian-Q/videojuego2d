@@ -105,7 +105,7 @@ Animator:
   m_GameObject: {fileID: 4015764248390968135}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 6315413540952424122, guid: 7a88987fba5a359438be838ee1a9cf44, type: 3}
+  m_Controller: {fileID: 9100000, guid: 60d7fd6a03c45b3438004203aa10b12e, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -201,6 +201,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   textCoins: {fileID: 0}
+  life: {fileID: 0}
 --- !u!1 &5545492052592205013
 GameObject:
   m_ObjectHideFlags: 0
