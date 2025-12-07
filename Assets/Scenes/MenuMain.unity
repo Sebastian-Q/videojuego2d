@@ -1704,7 +1704,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7249591c877b87b0be3bedaba4077ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MainMenu
-  gameScene: SampleScene
+  gameScene: Level1
   creditsScene: Creditos
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
