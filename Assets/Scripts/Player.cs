@@ -87,6 +87,7 @@ public class Player : MonoBehaviour
     private void FixedUpdate()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, groundLayer); // Verifica si el jugador esta en el suelo
+        Debug.Log("isGrounded (FixedUpdate): " + isGrounded);
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -171,8 +172,6 @@ public class Player : MonoBehaviour
     {
         if (life != null) {
             life.TakeDamage(); // ← primero restamos la vida
-        } else {
-            Debug.LogError("life es null en DieAndRestart");
         }
 
         SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Reiniciar la escena.

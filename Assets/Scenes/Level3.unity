@@ -2281,7 +2281,7 @@ GameObject:
   - component: {fileID: 1622366318}
   m_Layer: 7
   m_Name: Tilemap
-  m_TagString: Untagged
+  m_TagString: Floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2347,7 +2347,7 @@ TilemapRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -22692,11 +22692,6 @@ PrefabInstance:
     - target: {fileID: 4163440391765136128, guid: 3a86eb93046b07343a003712bc691243, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12.16
-      objectReference: {fileID: 0}
-    - target: {fileID: 4163440391765136128, guid: 3a86eb93046b07343a003712bc691243, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.82
-      value: 8.7
       objectReference: {fileID: 0}
     - target: {fileID: 4163440391765136128, guid: 3a86eb93046b07343a003712bc691243, type: 3}
       propertyPath: m_LocalPosition.y

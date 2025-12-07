@@ -66,5 +66,6 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
+    "videojuego2d.sln=======dotnet.defaultSolution": "videojuego2d-main.sln>>>>>>>origin/develop",
     "dotnet.defaultSolution": "videojuego2d.sln"
 }
