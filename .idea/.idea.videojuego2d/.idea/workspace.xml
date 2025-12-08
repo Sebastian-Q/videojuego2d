@@ -6,13 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="26ee1285-5628-42b7-9d22-fa9f33244004" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.videojuego2d/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.videojuego2d/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fonts/Galindo-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/Galindo-Regular SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/cerdito.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/cerdito.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Secret_Level.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Secret_Level.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LifeManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LifeManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +36,44 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/.vscode/settings.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/.vscode/settings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/.vscode/settings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/Galindo-Regular SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/Galindo-Regular SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/Galindo-Regular SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/Galindo-Regular SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Fonts/Galindo-Regular SDF.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Fonts/JFRocSol SDF.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Lifemanager.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Lifemanager.prefab.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Marcadores.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Marcadores.prefab.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Level 2.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level 2.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level 2.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level1.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level1.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level1.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level1.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Level1.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level3.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Level3.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/MenuMain.unity" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/CamareFollow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Secret_Level.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Secret_Level.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Secret_Level.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/LifeManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/LifeManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/MainMenu.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/Player.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/manifest.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/manifest.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/packages-lock.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/packages-lock.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/packages-lock.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/ProjectSettings/TagManager.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/ProjectSettings/TagManager.asset" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -71,7 +90,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "Charlie",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
