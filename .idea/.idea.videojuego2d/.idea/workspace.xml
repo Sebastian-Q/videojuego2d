@@ -6,6 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="26ee1285-5628-42b7-9d22-fa9f33244004" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.videojuego2d/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.videojuego2d/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/Galindo-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/Galindo-Regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/JFRocOut SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/JFRocOut SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/JFRocSol SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/JFRocSol SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NivelPass.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NivelPass.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,44 +47,19 @@
     <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/Galindo-Regular SDF.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/Galindo-Regular SDF.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/Galindo-Regular SDF.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/Galindo-Regular SDF.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Fonts/Galindo-Regular SDF.asset" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Fonts/JFRocSol SDF.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Fonts/JFRocSol SDF.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Prefab/Lifemanager.prefab" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Prefab/Lifemanager.prefab.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Prefab/Marcadores.prefab" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Prefab/Marcadores.prefab.meta" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Prefab/cerdito.prefab" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Prefab/cerdito.prefab" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Level 2.unity" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level 2.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level 2.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level1.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level1.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level1.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level1.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level1.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Level1.unity" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Level3.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Level3.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/MenuMain.unity" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Secret_Level.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Secret_Level.unity" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scenes/Secret_Level.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/LifeManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/LifeManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/MainMenu.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/Player.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/Player.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/Player.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/manifest.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/packages-lock.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -85,21 +70,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Builds\VideoGame2D.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\PC\OneDrive\Documentos\Proyectos\InteGame\Builds" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.2.7f2\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\edwin\OneDrive\Documentos\videojuego2d -debugCodeOptimization" />
@@ -166,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765154299480</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ultimas modificaciones al correr el juego en main">
+      <option name="closed" value="true" />
+      <created>1765169352847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765169352847</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +188,8 @@
     <MESSAGE value="Modificaciones para que las animaciones funcionen" />
     <MESSAGE value="Modificaciones para las animaciones" />
     <MESSAGE value="Corrección para el prefab del cerdito" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrección para el prefab del cerdito" />
+    <MESSAGE value="Ultimas modificaciones al correr el juego en main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ultimas modificaciones al correr el juego en main" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
