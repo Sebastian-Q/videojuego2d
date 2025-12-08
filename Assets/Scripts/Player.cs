@@ -169,13 +169,22 @@ public class Player : MonoBehaviour
     // NUEVO MÉTODO: Manejar la muerte y el reinicio.
     public void DieAndRestart()
     {
-        if (life != null) {
-            life.TakeDamage(); // ← primero restamos la vida
-        } else {
-            Debug.LogError("life es null en DieAndRestart");
-        }
+        if (life != null)
+        {
+            // Resta la vida y permite que LifeManager gestione el GameOver si llega a 0
+            life.TakeDamage();
 
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Reiniciar la escena.
+            // Si aún quedan vidas, recargamos la misma escena para reiniciar el nivel
+            if (LifeManager.currentLives > 0)
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            }
+        }
+        else
+        {
+            // Si no hay LifeManager por alguna razón, recargamos la escena como fallback
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
     }
 
     // MÉTODO MODIFICADO: APLICA DAÑO Y DESTRUYE OBJETOS EN EL ÁREA

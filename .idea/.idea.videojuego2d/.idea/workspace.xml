@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ee1285-5628-42b7-9d22-fa9f33244004" name="Changes" comment="" />
+    <list default="true" id="26ee1285-5628-42b7-9d22-fa9f33244004" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.videojuego2d/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.videojuego2d/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/Galindo-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/Galindo-Regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Secret_Level.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Secret_Level.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LifeManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LifeManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,17 +23,39 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Emi" />
+        <entry key="$PROJECT_DIR$" value="lvl2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sebastian-Q&quot;
+  }
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Sebastian-Q/videojuego2d.git&quot;,
-    &quot;accountId&quot;: &quot;c59c35b3-5f51-44cc-914d-e59570caa472&quot;
+    &quot;accountId&quot;: &quot;61404c68-35fe-4048-86d8-833ab0b95cbc&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/.vscode/settings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/.vscode/settings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.vscode/settings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Level 2.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Level1.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/MenuMain.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Assets/Scripts/CamareFollow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/manifest.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/manifest.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/packages-lock.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/packages-lock.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/Packages/packages-lock.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/ProjectSettings/TagManager.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PC/OneDrive/Documentos/Proyectos/InteGame/videojuego2d/ProjectSettings/TagManager.asset" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -40,7 +72,10 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "develop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -92,7 +127,18 @@
       <updated>1764948437596</updated>
       <workItem from="1764948437599" duration="105000" />
       <workItem from="1764948674019" duration="519000" />
+      <workItem from="1765130700933" duration="1095000" />
+      <workItem from="1765141855169" duration="2351000" />
     </task>
+    <task id="LOCAL-00001" summary="Modificaciones para las animaciones">
+      <option name="closed" value="true" />
+      <created>1765145771724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765145771724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +154,9 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Modificaciones para que las animaciones funcionen" />
+    <MESSAGE value="Modificaciones para las animaciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificaciones para las animaciones" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
