@@ -49,10 +49,8 @@ public class LifeManager : MonoBehaviour
 
     void Die()
     {
-        SceneManager.LoadScene("MenuMain");
-        Debug.Log("Game Over Nuevo nivel");
         // Aquí puedes cargar una escena de Game Over o reiniciar el juego
-        // SceneManager.LoadScene("GameOverScene");
+        SceneManager.LoadScene("MenuMain");
     }
 
     void UpdateLivesUI()
