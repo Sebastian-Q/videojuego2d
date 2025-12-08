@@ -9,6 +9,7 @@ public class MainMenu : MonoBehaviour
     
     public void StartGame()
     {
+        LifeManager.currentLives = 3;
         SceneManager.LoadScene(gameScene);
     }
 

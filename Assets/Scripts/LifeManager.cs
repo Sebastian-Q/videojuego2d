@@ -1,9 +1,9 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class LifeManager : MonoBehaviour
 {
-    public int maxLives = 3;
     public TMP_Text livesText;
 
     // Esta variable se conserva entre escenas
@@ -22,7 +22,7 @@ public class LifeManager : MonoBehaviour
             // Solo inicializamos la primera vez
             if (currentLives == 0)
             {
-                currentLives = maxLives;
+                currentLives = 3;
             }
         }
         else
@@ -49,9 +49,8 @@ public class LifeManager : MonoBehaviour
 
     void Die()
     {
-        Debug.Log("Game Over");
         // Aquí puedes cargar una escena de Game Over o reiniciar el juego
-        // SceneManager.LoadScene("GameOverScene");
+        SceneManager.LoadScene("MenuMain");
     }
 
     void UpdateLivesUI()
